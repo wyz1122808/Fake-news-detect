@@ -7,7 +7,7 @@ This project focuses on building a machine learning model to detect fake news ar
 
 [Dataset](#dataset)
 
-[Skills Demonstrated](skills-demonstrated)
+[Skills Demonstrated](#Skills-Demonstrated)
 
 [Usage](#usage)
 
